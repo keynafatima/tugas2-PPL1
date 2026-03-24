@@ -1,4 +1,4 @@
-# Tugas2-PPL1
+# Tugas2 - PPL1
 
 ## 1. Deskripsi Project
 
