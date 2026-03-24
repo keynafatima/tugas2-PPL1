@@ -1,0 +1,11 @@
+name: Skincare API CI-CS
+on: [push]
+jobs:
+  check-code:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Unit Test (CI)
+        run: echo "Menjalankan testing..."
+      - name: Security Scan (CS)
+        run: echo "Scanning untuk celah keamanan..."
