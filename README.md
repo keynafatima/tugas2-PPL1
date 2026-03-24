@@ -29,7 +29,7 @@ Mengambil semua data produk
     {
       "id": 1,
       "name": "Sunscreen SPF 50",
-      "brand": "GlowUp",
+      "brand": "Mother of Pearl",
       "price": 120000
     },
     {
@@ -176,13 +176,6 @@ on: [push]
 
 ---
 
-### Badge Status (Opsional)
-
-```md
-![CI Status](https://github.com/username-kamu/nama-repo/actions/workflows/main.yml/badge.svg)
-```
-
----
 
 ## Teknologi yang Digunakan
 
